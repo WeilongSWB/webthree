@@ -1,0 +1,93 @@
+.partone{
+  background: lightblue;
+  border: solid;
+  border-width: medium;
+}
+
+
+
+
+.title{
+  color: yellow;
+  text-align: center;
+  border: solid;
+  border-width: 5px;
+  border-radius: 5px;
+  position: inherit;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+
+.typo{
+  background-color: yellow;
+}
+
+
+
+.contact-name{
+  margin-left: 200px;
+
+}
+
+
+
+
+.contact-space{
+  margin-bottom: 20px;
+background-color: yellow;
+text-align: center;
+
+}
+
+.contact-message{
+
+width: 100px;
+background-color:#lightgreen;
+  height: 500px;
+
+text-align: center;
+margin-left: 360px;
+
+
+}
+.contact-address{
+  text-align: center;
+  background-color: yellow;
+  height: 750px;
+  border: solid;
+  border-width: medium;
+}
+.contact-office{
+  margin-top: 20px;
+  border: outset;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+.contact-map{
+  width: 65%;
+  height: 460px;
+}
+.contact-phone{
+  font-size: 20px;
+  border: ridge;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+h3{
+color: green;
+text-align: center;
+border: dashed;
+border-color: green;
+margin-left: 30%;
+margin-right: 30%;
+}
+h4{
+  color: green;
+  text-align: center;
+  border: dashed;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
